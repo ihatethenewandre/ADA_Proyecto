@@ -1,0 +1,36 @@
+Entrada,n,Cadena,DaC Tiempo (s),DaC Operaciones,DP Tiempo (s),DP Operaciones,Resultado
+E01_PEOR_n4,4,aaab,3.2919924706220627e-06,30,3.6669662222266197e-06,11,No segmentable
+E02_PEOR_n6,6,aaaaab,1.008401159197092e-05,126,3.6249984987080097e-06,17,No segmentable
+E03_PEOR_n8,8,aaaaaaab,4.133401671424508e-05,510,4.292000085115433e-06,23,No segmentable
+E04_PEOR_n10,10,aaaaaaaaab,0.00014716701116412878,2046,4.999979864805937e-06,29,No segmentable
+E05_PEOR_n12,12,aaaaaaaaaaab,0.0005764589877799153,8190,5.66698145121336e-06,35,No segmentable
+E06_PEOR_n14,14,aaaaaaaaaaaaab,0.002485250006429851,32766,6.165995728224516e-06,41,No segmentable
+E07_PEOR_n16,16,aaaaaaaaaaaaaaab,0.01085762504953891,131070,1.1417025234550238e-05,47,No segmentable
+E08_PEOR_n18,18,aaaaaaaaaaaaaaaaab,0.0409340420155786,524286,1.9540952052921057e-05,53,No segmentable
+E09_PEOR_n20,20,aaaaaaaaaaaaaaaaaaab,0.15716649999376386,2097150,2.5874993298202753e-05,59,No segmentable
+E10_PEOR_n22,22,aaaaaaaaaaaaaaaaaaaaab,0.6145826670108363,8388606,2.208305522799492e-05,65,No segmentable
+E11_PEOR_n24,24,aaaaaaaaaaaaaaaaaaaaaaab,2.589052667026408,33554430,2.1832995116710663e-05,71,No segmentable
+E12_PEOR_n26,26,aaaaaaaaaaaaaaaaaaaaaaaaab,TIMEOUT,N/A,2.1874962840229273e-05,77,No segmentable
+E13_SEG_n5,5,abcab,1.9579892978072166e-06,16,1.0375049896538258e-05,14,Segmentable
+E14_SEG_n8,8,catsandd,2.1669548004865646e-06,15,4.125002305954695e-06,26,Segmentable
+E15_SEG_n10,10,catsanddog,2.00001522898674e-06,17,5.665991920977831e-06,35,Segmentable
+E16_SEG_n13,13,applepenapple,2.167013008147478e-06,20,5.708017852157354e-06,59,Segmentable
+E17_SEG_n14,14,ilikecatsandog,3.7910067476332188e-06,40,4.958012141287327e-06,51,Segmentable
+E18_SEG_n16,16,pineapplepenappl,6.416987162083387e-06,60,8.750008419156075e-06,106,Segmentable
+E19_SEG_n20,20,aaaaaaaaaaaaaaaaaaaa,3.999972250312567e-06,61,6.499991286545992e-06,41,Segmentable
+E20_SEG_n24,24,algorithmdynamicproblems,3.958004526793957e-06,33,9.207986295223236e-06,185,Segmentable
+E21_SEG_n27,27,dividesortmergeconquerbuild,TIMEOUT,N/A,9.66701190918684e-06,174,Segmentable
+E22_SEG_n32,32,abcabcabcabcabcabcabcabcabcabcab,TIMEOUT,N/A,9.041978046298027e-06,95,Segmentable
+E23_SEG_n36,36,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,TIMEOUT,N/A,6.958958692848682e-06,73,Segmentable
+E24_NO_n6,6,xyzwqj,1.1249794624745846e-06,7,1.9999570213258266e-06,22,No segmentable
+E25_NO_n10,10,abcdefghij,3.374996595084667e-06,29,3.00002284348011e-06,32,No segmentable
+E26_NO_n15,15,zzzzzzzzzzzzzzz,2.1249870769679546e-06,16,3.2499665394425392e-06,58,No segmentable
+E27_NO_n20,20,qwertyuiopasdfghjklz,2.834014594554901e-06,21,5.499983672052622e-06,111,No segmentable
+E28_NO_n25,25,abcdeabcdeabcdeabcdeabcde,TIMEOUT,N/A,6.459013093262911e-06,161,No segmentable
+E29_NO_n30,30,xyzxyzxyzxyzxyzxyzxyzxyzxyzxyz,TIMEOUT,N/A,8.333008736371994e-06,88,Segmentable
+E30_NO_n35,35,abababababababababababababababababa,TIMEOUT,N/A,7.750000804662704e-06,77,Segmentable
+E31_NO_n40,40,abcdefghijabcdefghijabcdefghijabcdefghij,TIMEOUT,N/A,1.2249976862221956e-05,214,Segmentable
+E32_NO_n45,45,hellohellohellohellohellohellohellohellohello,TIMEOUT,N/A,1.3499986380338669e-05,166,Segmentable
+E33_NO_n50,50,aabbaabbaabbaabbaabbaabbaabbaabbaabbaabbaabbaabbaa,TIMEOUT,N/A,1.3499986380338669e-05,185,No segmentable
+E34_NO_n55,55,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,TIMEOUT,N/A,1.1916039511561394e-05,118,Segmentable
+E35_NO_n60,60,yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy,TIMEOUT,N/A,1.18750031106174e-05,128,Segmentable
